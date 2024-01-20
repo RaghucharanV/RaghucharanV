@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <figure style="text-align: center;">
-    <img src="your-image-url.jpg" alt="Your Image" style="max-width: 100%; display: block;">
-    <figcaption style="font-weight: bold;">Your Bold Caption Text</figcaption>
+    <img src="assets/image.jpg" alt="Your Image" style="max-width: 100%; display: block;">
+    <figcaption style="font-weight: bold;color:white">Your Bold Caption Text</figcaption>
 </figure>
 
 
