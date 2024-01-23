@@ -21,27 +21,27 @@
 
 
 <div align="center">
-  <a href="https://en.wikipedia.org/wiki/Data_science">
+  <a href="https://datascience-pro.web.app/">
     <img src="https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge" alt="Data Science">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://en.wikipedia.org/wiki/Data_engineering">
+  <a href="https://datascience-pro.web.app/html/DataEngineering.html">
     <img src="https://img.shields.io/badge/Data%20Engineering-purple?style=for-the-badge" alt="Data Engineering">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://en.wikipedia.org/wiki/Data_analysis">
+  <a href="https://datascience-pro.web.app/html/Analysis.html">
     <img src="https://img.shields.io/badge/Data%20Analysis-green?style=for-the-badge" alt="Data Analysis">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://en.wikipedia.org/wiki/Computer_vision">
+  <a href="https://datascience-pro.web.app/html/Deep_Learning(CV).html">
     <img src="https://img.shields.io/badge/Gen%20AI%20(CV)-orange?style=for-the-badge" alt="General AI (Computer Vision)">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://en.wikipedia.org/wiki/Natural_language_processing">
+  <a href="https://datascience-pro.web.app/html/Deep_Learning(LLM).html">
     <img src="https://img.shields.io/badge/NLP%20(LLM)-blueviolet?style=for-the-badge" alt="NLP (LLM)">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://en.wikipedia.org/wiki/Data_visualization">
+  <a href="https://datascience-pro.web.app/html/Visualization.html">
     <img src="https://img.shields.io/badge/Data%20Visualization-red?style=for-the-badge" alt="Data Visualization">
   </a>
 </div>
