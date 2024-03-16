@@ -7,7 +7,6 @@
 
 > ### A passionate data professional.
 
->  💼 Data Engineering with Azure
 > My areas of expertise include:
 
 🟢Programming : Python, Postgres, C++,Tensorflow, sklearn,
