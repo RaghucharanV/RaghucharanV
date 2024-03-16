@@ -8,14 +8,15 @@
 > ### A passionate data professional.
 
 >  💼 Data Engineering with Azure
-> 
->  📊 Data Analysis with Pandas and PySpark
-> 
->  📈 Data Visualization with Seaborn, Pandas, and NumPy
-> 
->  🤖 Developing Language Models (LLM)
-> 
->  🧠 Generative Adverisal Networks (GEN AI)
+> My areas of expertise include:
+
+🟢Programming : Python, Postgres, C++,Tensorflow, sklearn,
+🟢Generative AI : Image Generation, Text Generation, Music and Sound Generation ( LLM fine-tuning.)
+🟢Web & App Development: FastAPI & Flask for creating dynamic and interactive web applications.
+🟢Cloud Technologies: Vertex AI, AutoML, BigQuery, Azure Data Factory, Azure Synapse Analytics
+🟢Data Science: Data analysis, Data preparation, Data cleaning, Visualization
+🟢Edge Computing: Jetson nano, Raspberry pi, Arduino, Docker, Kubernetes
+
 
 ## Projects Repo's
 
