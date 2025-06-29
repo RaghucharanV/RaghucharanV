@@ -9,13 +9,13 @@
 
 > My areas of expertise include:
 
-🟢Programming : Python, Postgres, C++,Tensorflow, sklearn,
+🟢Programming : Python, Postgres, C++, Pytorch,
 
-🟢Generative AI : Image Generation, Text Generation, Music and Sound Generation ( LLM fine-tuning.)
+🟢Agentic AI : Text Generation Applications, Music and Sound Generation ( LLM fine-tuning.)
 
-🟢Web & App Development: FastAPI & Flask for creating dynamic and interactive web applications.
+🟢Web & App Development: FastAPI & Django for creating dynamic and interactive web applications.
 
-🟢Cloud Technologies: Vertex AI, AutoML, BigQuery, Azure Data Factory, Azure Synapse Analytics
+🟢Cloud Technologies: Azure AI Services, Azure Functions, Azure Foundary, AWS BedRock
 
 🟢Data Science: Data analysis, Data preparation, Data cleaning, Visualization
 
@@ -23,21 +23,10 @@
 
 
 ## Projects Repo's
-
-
-<div align="center">
-  <a href="https://datascience-pro.web.app/html/Data_Science.html">
-    <img src="https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge" alt="Data Science">
+&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://datascience-pro.web.app/html/Visualization.html">
+    <img src="https://img.shields.io/badge/Data%20Visualization-red?style=for-the-badge" alt="Agentic AI">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://datascience-pro.web.app/html/DataEngineering.html">
-    <img src="https://img.shields.io/badge/Data%20Engineering-purple?style=for-the-badge" alt="Data Engineering">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://datascience-pro.web.app/html/Analysis.html">
-    <img src="https://img.shields.io/badge/Data%20Analysis-green?style=for-the-badge" alt="Data Analysis">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://datascience-pro.web.app/html/Deep_Learning(CV).html">
     <img src="https://img.shields.io/badge/Gen%20AI%20(CV)-orange?style=for-the-badge" alt="General AI (Computer Vision)">
   </a>
@@ -46,11 +35,7 @@
     <img src="https://img.shields.io/badge/NLP%20(LLM)-blueviolet?style=for-the-badge" alt="NLP (LLM)">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://datascience-pro.web.app/html/Visualization.html">
-    <img src="https://img.shields.io/badge/Data%20Visualization-red?style=for-the-badge" alt="Data Visualization">
-  </a>
 </div>
-
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -71,15 +56,15 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@yourusername/">
+  <a href="https://medium.com/@raghucharan88c/">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium" alt="Medium">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://huggingface.co/yourusername/">
+  <a href="https://huggingface.co/Raghucharan_v/">
     <img src="https://img.shields.io/badge/Hugging%20Face-4E44C0?style=for-the-badge&logo=huggingface" alt="Hugging Face">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.kaggle.com/yourusername/">
+  <a href="https://www.kaggle.com/raghucharan88u/">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle" alt="Kaggle">
   </a>
 </div>
