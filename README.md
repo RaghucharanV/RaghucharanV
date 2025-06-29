@@ -25,7 +25,7 @@
 ## Projects Repo's
 &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://datascience-pro.web.app/html/Visualization.html">
-    <img src="https://img.shields.io/badge/Data%20Visualization-red?style=for-the-badge" alt="Agentic AI">
+    <img src="https://img.shields.io/badge/Agentic%20AI-red?style=for-the-badge" alt="Agentic AI">
   </a>
   <a href="https://datascience-pro.web.app/html/Deep_Learning(CV).html">
     <img src="https://img.shields.io/badge/Gen%20AI%20(CV)-orange?style=for-the-badge" alt="General AI (Computer Vision)">
